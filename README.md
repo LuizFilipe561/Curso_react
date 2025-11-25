@@ -1,2 +1,2 @@
 # Curso_react
-Projeto dd curso de react yt
+Projeto do curso de react yt
